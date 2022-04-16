@@ -1,0 +1,13 @@
+:root {
+    font-size: 62.5%;
+}
+
+body {
+    font-size: 2rem;
+}
+
+.center {
+    text-align: center;
+    display: flex;
+    justify-content: start;
+}
